@@ -18,5 +18,6 @@ void draw() {
   if (mousePressed == true) {
     background(rainbow);
 } else {
-  return 0;
+
+}
 }
